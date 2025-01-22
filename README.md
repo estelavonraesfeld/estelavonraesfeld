@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-Iam a Data Scientist student, 
+Iam a Data Scientist student, you can see herte all my  projects
 
 <!--
 **estelavonraesfeld/estelavonraesfeld** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
