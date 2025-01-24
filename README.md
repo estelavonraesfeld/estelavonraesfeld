@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-Iam a Data Scientist student, you can see herte all my  projects
+
 
 Data Scientist Jr con una sólida comprensión de los principios y procesos de análisis y predicción de datos, con conocimiento de (Python, SQL, tableu) así como otros lenguajes como (JavaScript, HTLM, CSS). Gracias a mi trayectoria académica puedo fusionar el pensamiento analítico con el social, con el compromiso de aportar lo mejor de mis conocimientos y habilidades al mundo tecnológico, con la mejor disposición de seguir en continuo aprendizaje 
 <!--
