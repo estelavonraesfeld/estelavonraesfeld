@@ -1,4 +1,4 @@
-https://media.licdn.com/dms/image/v2/D5616AQH5yCy4zt7X0g/profile-displaybackgroundimage-shrink_350_1400/B56Zb.lYMRHwAg-/0/1748027934124?e=1753315200&v=beta&t=VzEGp2LkNcpuZV5R5OjCoyDTBRkxnATbVsxotqTKX_M![image](https://github.com/user-attachments/assets/9f16f0af-65a5-4244-bdf0-d0723abced8b)
+
 
 
 ## Hi there, I'm Estela von Raesfeld 👋
