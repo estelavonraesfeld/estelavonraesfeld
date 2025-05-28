@@ -9,7 +9,8 @@ Data Scientist Jr con una sólida comprensión de los principios y procesos de a
 <h1 align="center">Hi, I'm Estela von Raesfeld 👋</h1>
 
 <p align="center">
-  <img src="https://www.google.com.mx/url?sa=i&url=https%3A%2F%2Fbuiltin.com%2Fdata-science&psig=AOvVaw06MU-Kd0s2xVh_9OV86G2y&ust=1748541782130000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCOD5zfPfxo0DFQAAAAAdAAAAABAE" width="600"/>
+  <img src="![1748027934124](https://github.com/user-attachments/assets/b46d4db7-2082-4995-83d5-3fc4efbcd7b1)
+" width="600"/>
 </p>
 
 👩‍💻 About Me
