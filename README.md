@@ -31,11 +31,11 @@ Data Scientist Jr con una sólida comprensión de los principios y procesos de a
 ---
 
 ### 🔗 Connect with me
-[![LinkedIn](www.linkedin.com/in/estelavonraesfeld)
-[![GitHub](estelavonraesfeld/estelavonraesfeld)
+LinkedIn: www.linkedin.com/in/estelavonraesfeld
+GitHub: estelavonraesfeld/estelavonraesfeld
 
 
-Here are some ideas to get you started:
+
 
 - 🔭 I’m currently working on my own second hand store 
 - 🌱 I’m currently learning about data science 
