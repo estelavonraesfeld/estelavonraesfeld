@@ -32,8 +32,8 @@ Data Scientist Jr con una sólida comprensión de los principios y procesos de a
 
 ### 🔗 Connect with me
 [![LinkedIn](www.linkedin.com/in/estelavonraesfeld)
-[![GitHub]()
-**estelavonraesfeld/estelavonraesfeld** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[![GitHub](estelavonraesfeld/estelavonraesfeld)
+
 
 Here are some ideas to get you started:
 
